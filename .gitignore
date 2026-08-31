@@ -1,0 +1,11 @@
+# 只部署前端 index.html，不部署以下文件
+bridge/
+fc-verify/
+vercel-bridge/
+feishu-build/
+PROJECT_CONTEXT.md
+test_*.json
+*.json
+.env*
+.vercel/
+node_modules/
