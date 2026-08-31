@@ -1,0 +1,25 @@
+{
+  "name": "AI Career Workbench",
+  "short_name": "AI Workbench",
+  "description": "个人 AI 职业工作台",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f3f0",
+  "theme_color": "#2f2e2b",
+  "icons": [
+    {
+      "src": "assets/icon-512.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-512.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
